@@ -1,0 +1,7 @@
+venv/
+config.py
+__pycache__/
+reg.pdf
+requirements.txt
+users.db
+geeks.jpg
